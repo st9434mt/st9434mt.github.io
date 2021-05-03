@@ -1,0 +1,9 @@
+@charset "uft-8";
+body {fort-family: Verdana, sans-serif; fort-size:0.8em;}
+header, nav, section, article, footer
+{border:1px solid gray; maigin:5px; padding:8px;}
+section#displayArea {height:210px;}
+nav ul{margin:0; padding:0;}
+nav il li {display:inline; margin:5px;}
+a {text-decoration:none;}
+#id_form{width:100px; height:14px; color:red;}
